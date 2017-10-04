@@ -1,5 +1,5 @@
 <?php
-    namespace codes\src\challenges\easy\_001_fizz_buzz;
+    namespace codes\src\challenges\easy\_107_shortest_repetition;
 
     if (isset($argv)) {
         $lines = file($argv[1]);
